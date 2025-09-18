@@ -14,9 +14,7 @@
 ---
 
 ## 🏆 Competitive Programming & Problem Solving
-
 <p align="center">
-  <!-- Competitive Programming -->
   <a href="https://codeforces.com/profile/shivanshcoding">
     <img src="https://img.shields.io/badge/Codeforces-Expert_1664-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
@@ -110,12 +108,6 @@
 
 ---
 
-## 📫 Let’s Connect  
+## 📫 Let’s Connect  <p align="center"><a href="https://www.linkedin.com/in/shivanshranadtu/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a><a href="https://www.instagram.com/the_realshivansh/profilecard/?igsh=cGZ4NDc3NnB5NWNx"><img src="https://img.shields.io/badge/Instagram-Follow-FF69B4?style=for-the-badge&logo=instagram" /></a></p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shivanshranadtu/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://www.instagram.com/the_realshivansh/profilecard/?igsh=cGZ4NDc3NnB5NWNx"><img src="https://img.shields.io/badge/Instagram-Follow-FF69B4?style=for-the-badge&logo=instagram" /></a>
-<!--   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit-9cf?style=for-the-badge&logo=firefox" /></a> -->
-</p>
-
-<p align = "center" > ✨ *Code. Solve. Perform. Inspire.*  </p>
+<p align = "center" > ✨ Code. Solve. Perform. Inspire.  </p>
