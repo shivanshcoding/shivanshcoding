@@ -13,9 +13,14 @@
 ## 🏆 Competitive Programming  
 
 <p align="center">
-  <a href="https://codeforces.com/profile/shivanshcoding" target="_blank"><img src="https://img.shields.io/badge/Codeforces-Expert_1664-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /><a/>
-  <a href="https://leetcode.com/u/shivansh_coding/" target="_blank"></a><img src="https://img.shields.io/badge/LeetCode-760%2B_Problems_1687-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /><a/>
+  <a href="https://codeforces.com/profile/shivanshcoding" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-Expert_1664-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/shivansh_coding" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-760%2B_Problems_1687-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
 </p>
+
 
 - 🧑‍💻 **EXPERT on Codeforces (1664)**  
 - 📊 **730+ problems solved on LeetCode** | Contest Rating **1687**  
