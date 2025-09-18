@@ -10,7 +10,7 @@
 
 ---
 
-## 🏆 Competitive Programming  
+## 🏆 Competitive Programming & Problem Solving
 
 <p align="center">
   <!-- Competitive Programming -->
@@ -63,32 +63,31 @@
 
 
 ---
-
 ## 🚀 Featured Projects  
 
 ### 🧩 Rubik’s Cube Solver Platform  
-> *AI-driven cube solver with CV + 3D visualization.*  
+> *AI-powered cube-solving & learning platform with CV + 3D visualization.*  
 
-- 🌀 Solves any cube in **<50 moves** (avg. 2.5 sec solve).  
-- 🎥 **3D animation** of each solving step (Three.js + D3.js).  
-- 🎮 Interactive quiz with **1000+ unique scrambles**.  
-- 📊 Helped **100+ learners** reduce solve time by **40%**.  
+- 🌀 Solves any cube in **<50 moves** within ~2.5 sec.  
+- 🎥 Step-by-step **3D solution animation** using Three.js + D3.js.  
+- 🎮 Interactive quiz mode with **1000+ scrambles** for learners.  
+- 📊 Adopted by **100+ students**, improving solve speed by **40%**.  
 
-🔗 [View Repository](#)  
-🛠 **Tech:** Python, Flask, OpenCV, TensorFlow, Three.js, D3.js  
+🔗 [View Repository](https://github.com/shivanshcoding/RubixCubeSolver) 
+🛠 **Tech:** Python, Flask, OpenCV, TensorFlow, D3.js, Three.js, JavaScript, HTML, CSS, Tailwind CSS 
 
 ---
 
 ### 📊 CodeComplexity  
-> *Chrome extension + backend service to analyze code complexity in real time.*  
+> *Real-time code complexity analyzer — Chrome Extension + FastAPI backend.*  
 
-- 🧠 Evaluates **time & space complexity** instantly.  
-- 🌈 Clean UI with **syntax highlighting (Prism.js)**.  
-- ⚡ Backend with **FastAPI**, designed for performance.  
-- 🔐 Modular architecture for easy scaling.  
+- 🧠 Instantly evaluates **time & space complexity** for snippets.  
+- 🌈 Sleek popup UI with **syntax highlighting (Prism.js)**.  
+- ⚡ Backend built on **FastAPI + Python**, optimized for speed.  
+- 🔐 Scalable, modular design for seamless extension & APIs.
 
-🔗 [View Repository](#)  
-🛠 **Tech:** JavaScript, Chrome APIs, FastAPI, Python  
+🔗 [View Repository](https://github.com/shivanshcoding/CodeComplexity)
+🛠 **Tech:** Manifest V3, JavaScript, HTML, CSS, Tailwind, Prism.js, Python, FastAPI, Groq LLM API, Uvicorn, WebSockets  
 
 ---
 
