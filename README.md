@@ -109,36 +109,12 @@
 
 ---
 
-## 📊 GitHub Showcase  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 📫 Let’s Connect  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shivanshranadtu/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit-9cf?style=for-the-badge&logo=firefox" /></a>
+  <a href="https://www.instagram.com/the_realshivansh/profilecard/?igsh=cGZ4NDc3NnB5NWNx"><img src="https://img.shields.io/badge/Instagram-Follow-1DA1F2?style=for-the-badge&logo=instagram" /></a>
+<!--   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit-9cf?style=for-the-badge&logo=firefox" /></a> -->
 </p>
 
 ---
