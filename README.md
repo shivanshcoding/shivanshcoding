@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1C8EF7&center=true&vCenter=true&random=false&width=800&lines=Hey%2C+I'm+Shivansh+Rana+👋;Codeforces+Expert+%7C+LeetCode+730%2B+Problems;Developer+%7C+AI+%7C+Web3+%7C+DevOps;Blending+Creativity+%26+Technology+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=1C8EF7&center=true&vCenter=true&random=false&width=1200&lines=Hey%2C+I'm+Shivansh+Rana+👋;Codeforces+Expert(1664)+%7C+LeetCode(1687)+760%2B+Problems;WebDeveloper+%7C+AI/ML+%7C+Web3/BlockChain+%7C+DevOps;Blending+Creativity+%26+Technology+🚀" alt="Typing Animation" />
 </p>
 
 
@@ -13,25 +13,18 @@
 ## 🏆 Competitive Programming  
 
 <p align="center">
-  <a href="https://codeforces.com/profile/shivanshcoding" target="_blank">
+  <!-- Competitive Programming -->
+  <a href="https://codeforces.com/profile/shivanshcoding">
     <img src="https://img.shields.io/badge/Codeforces-Expert_1664-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/shivansh_coding" target="_blank">
+  <a href="https://leetcode.com/u/shivansh_coding">
     <img src="https://img.shields.io/badge/LeetCode-760%2B_Problems_1687-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
-
-- 🧑‍💻 **EXPERT on Codeforces (1664)**  
-- 📊 **730+ problems solved on LeetCode** | Contest Rating **1687**  
-- 🏆 Regular participant in coding contests (Codeforces | LeetCode | AtCoder)  
-
----
-
-## 🌱 Currently Exploring  
-- 🌐 **Web3 & Blockchain** – Smart Contracts, dApps, Decentralized Systems  
-- ⚙️ **Advanced DevOps** – Kubernetes, IaC, Microservices Architecture  
-- 🤖 **Generative AI** – AI Agents, LLM-powered platforms  
+- 🧑‍💻 **EXPERT on Codeforces (Max Rating : 1664)**  
+- 📊 **760+ problems solved on LeetCode** | Max Contest Rating **1687**  
+- 🏆 Regular participant in coding contests (Codeforces | LeetCode | HackerRank)  
 
 ---
 
@@ -94,6 +87,13 @@
 - 🎤 **Top 100 – Indian Idol**  
 - 📺 **National TV Performer (30M+ viewership)**  
 - 🎶 **Indian Head – Madhurima, DTU Music Society** (Led 20+ members, 10+ large events)  
+
+---
+
+## 🌱 Currently Exploring  
+- 🌐 **Web3 & Blockchain** – Smart Contracts, dApps, Decentralized Systems  
+- ⚙️ **Advanced DevOps** – Kubernetes, IaC, Microservices Architecture  
+- 🤖 **Generative AI** – AI Agents, LLM-powered platforms  
 
 ---
 
