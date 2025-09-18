@@ -113,10 +113,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shivanshranadtu/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://www.instagram.com/the_realshivansh/profilecard/?igsh=cGZ4NDc3NnB5NWNx"><img src="https://img.shields.io/badge/Instagram-Follow-1DA1F2?style=for-the-badge&logo=instagram" /></a>
+  <a href="https://www.instagram.com/the_realshivansh/profilecard/?igsh=cGZ4NDc3NnB5NWNx"><img src="https://img.shields.io/badge/Instagram-Follow-FF69B4?style=for-the-badge&logo=instagram" /></a>
 <!--   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit-9cf?style=for-the-badge&logo=firefox" /></a> -->
 </p>
 
----
-
-✨ *Code. Solve. Perform. Inspire.*  
+<p align = "center" > ✨ *Code. Solve. Perform. Inspire.*  </p>
