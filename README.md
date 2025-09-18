@@ -6,7 +6,10 @@
 
 # Shivansh Rana  
 
-💻 **Developer | 🚀 Problem Solver | 🤖 AI/ML Explorer | 🎤 National TV Performer**  
+💻 **Software Developer** | 🚀 **Problem-Solving Enthusiast** | 🤖 **AI/ML Innovator** | 🎤 **National TV Performer** | 🎶 **Singer & Music Passionate**
+
+
+👋 Hi, I’m Shivansh — a B.Tech CSE student at Delhi Technological University (DTU, formerly DCE), passionate about building AI-powered tools, interactive learning platforms, and scalable web apps. I love blending **GenAI, full-stack engineering, and problem-solving** to create impactful projects. I’m a **Flipkart Grid Finalist**, **Adobe India Hackathon Finalist**, and **NTSE Scholar**, with achievements ranging from clearing **JEE Mains (AIR 7034)** to ranking **Top 12 in The Voice of India Kids (2017)** and **Top 100 in Indian Idol (2023)**. A coder and music enthusiast, I thrive in dynamic environments that challenge me to adapt and grow.
 
 ---
 
@@ -22,15 +25,15 @@
   </a>
 </p>
 
-- 🧑‍💻 **EXPERT on Codeforces (Max Rating : 1664)**  
-- 📊 **760+ problems solved on LeetCode** | Max Contest Rating **1687**  
-- 🏆 Regular participant in coding contests (Codeforces | LeetCode | HackerRank)  
-
+- 🧑‍💻 **Codeforces Expert** (Max Rating: 1664)  
+- 📊 **760+ LeetCode Problems Solved** | Max Contest Rating: **1687**  
+- 📘 **138+ Problems Solved** on CSES Problem Set  
+- 🏆 Active participant in coding contests (Codeforces | LeetCode | HackerRank)  
 ---
 
 ## 🛠️ Tech Stack  
 <p align="center">
-  <!-- Languages -->
+<!--   Languages:  -->
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,ts,js,html,css" />
   <br/>
   
@@ -76,7 +79,6 @@
 🔗 [View Repository](https://github.com/shivanshcoding/RubixCubeSolver) 
 🛠 **Tech:** Python, Flask, OpenCV, TensorFlow, D3.js, Three.js, JavaScript, HTML, CSS, Tailwind CSS 
 
----
 
 ### 📊 CodeComplexity  
 > *Real-time code complexity analyzer — Chrome Extension + FastAPI backend.*  
