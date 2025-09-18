@@ -21,12 +21,12 @@
     <img src="https://img.shields.io/badge/Codeforces-Expert_1664-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/shivansh_coding">
-    <img src="https://img.shields.io/badge/LeetCode-760%2B_Problems_1687-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-760%2B_Problems_1805-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
 - 🧑‍💻 **Codeforces Expert** (Max Rating: 1664)  
-- 📊 **760+ LeetCode Problems Solved** | Max Contest Rating: **1687**  
+- 📊 **760+ LeetCode Problems Solved** | Max Contest Rating: **1805**  
 - 📘 **138+ Problems Solved** on CSES Problem Set  
 - 🏆 Active participant in coding contests (Codeforces | LeetCode | HackerRank)  
 ---
