@@ -29,26 +29,38 @@
 ---
 
 ## 🛠️ Tech Stack  
-
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,ts,js,html,css" />
   <br/>
+  
   <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=react,next,vue,angular,threejs,tailwind" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" width="48" height="48" />
+  <img src="https://cdn.phaser.io/images/logo/logo-download.png" width="48" height="48" />
+
+
   <br/>
+  
   <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi" />
   <br/>
+  
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase" />
   <br/>
+  
   <!-- DevOps & Cloud -->
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,github,git" />
   <br/>
+  
   <!-- AI/ML -->
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" width="48" height="48" />
 </p>
+
+
 
 ---
 
@@ -80,7 +92,7 @@
 
 ---
 
-## 🎤 Other Achievements  
+## 🎤 Major Achievements  
 
 - 🎓 **NTSE Scholar** (Top 0.1% nationwide)  
 - 🌟 **Top 12 – The Voice of India Kids**  
@@ -124,7 +136,7 @@
 ## 📫 Let’s Connect  
 
 <p align="center">
-  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/shivanshranadtu/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" /></a>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit-9cf?style=for-the-badge&logo=firefox" /></a>
 </p>
