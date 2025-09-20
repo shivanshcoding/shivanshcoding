@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=1C8EF7&center=true&vCenter=true&random=false&width=1200&lines=Hey%2C+I'm+Shivansh+Rana+👋;Codeforces+Expert(1664)+%7C+LeetCode(1805)+760%2B+Problems;WebDeveloper+%7C+AI/ML+%7C+Web3/BlockChain+%7C+DevOps;Blending+Creativity+%26+Technology+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=1C8EF7&center=true&vCenter=true&random=false&width=1200&lines=Hey%2C+I'm+Shivansh+Rana+👋;Codeforces+Expert(1756)+%7C+LeetCode(1805)+760%2B+Problems;WebDeveloper+%7C+AI/ML+%7C+Web3/BlockChain+%7C+DevOps;Blending+Creativity+%26+Technology+🚀" alt="Typing Animation" />
 </p>
 
 
@@ -16,14 +16,14 @@
 ## 🏆 Competitive Programming & Problem Solving
 <p align="center">
   <a href="https://codeforces.com/profile/shivanshcoding">
-    <img src="https://img.shields.io/badge/Codeforces-Expert_1664-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+    <img src="https://img.shields.io/badge/Codeforces-Expert_1756-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/shivansh_coding">
     <img src="https://img.shields.io/badge/LeetCode-760%2B_Problems_1805-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
-- 🧑‍💻 **Codeforces Expert** (Max Rating: 1664)  
+- 🧑‍💻 **Codeforces Expert** (Max Rating: 1756)  
 - 📊 **760+ LeetCode Problems Solved** | Max Contest Rating: **1805**  
 - 📘 **138+ Problems Solved** on CSES Problem Set  
 - 🏆 Active participant in coding contests (Codeforces | LeetCode | HackerRank)  
