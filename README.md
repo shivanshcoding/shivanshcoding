@@ -15,9 +15,9 @@
 
 ## 🏆 Competitive Programming & Problem Solving
 <p align="center">
-  <a href="https://codeforcessex.com/profile/shivanshcoding">
+  <span>
     <img src="https://img.shields.io/badge/Codeforces-Expert_1756-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
+  </span>
   <a href="https://leetcode.com/u/shivansh_coding">
     <img src="https://img.shields.io/badge/LeetCode-760%2B_Problems_1805-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
