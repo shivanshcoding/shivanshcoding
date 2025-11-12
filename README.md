@@ -9,22 +9,22 @@
 💻 **Software Developer** | 🚀 **Problem-Solving Enthusiast** | 🤖 **AI/ML Innovator** | 🎤 **National TV Performer** | 🎶 **Singer & Music Passionate**
 
 
-👋 Hi, I’m Shivansh — a B.Tech CSE student at Delhi Technological University (DTU, formerly DCE), passionate about building AI-powered tools, interactive learning platforms, and scalable web apps. I love blending **GenAI, full-stack engineering, and problem-solving** to create impactful projects. I’m a **Flipkart Grid Finalist**, **Adobe India Hackathon Finalist**, and **NTSE Scholar**, with achievements ranging from clearing **JEE Mains (AIR 7034)** to ranking **Top 12 in The Voice of India Kids (2017)** and **Top 100 in Indian Idol (2023)**. A coder and music enthusiast, I thrive in dynamic environments that challenge me to adapt and grow.
+👋 Hi, I’m Shivansh — a B.Tech CSE student at Delhi Technological University (DTU, formerly DCE), passionate about building AI-powered tools, interactive learning platforms, and scalable web apps. I love blending **GenAI, full-stack engineering, and problem-solving** to create impactful projects. I’m a **Flipkart Grid Finalist**, **Adobe India Hackathon Finalist**, **Meta Hacker Cup 333rd International Rank Holder** and **NTSE Scholar**, with achievements ranging from clearing **JEE Mains (AIR 7034)** to ranking **Top 12 in The Voice of India Kids (2017)** and **Top 100 in Indian Idol (2023)**. A coder and music enthusiast, I thrive in dynamic environments that challenge me to adapt and grow.
 
 ---
 
 ## 🏆 Competitive Programming & Problem Solving
 <p align="center">
-  <span>
-    <img src="https://img.shields.io/badge/Codeforces-Expert_1756-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </span>
+  <a href="https://codeforces.com/profile/algoslayer">
+    <img src="https://img.shields.io/badge/Codeforces-Expert_1729-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
   <a href="https://leetcode.com/u/shivansh_coding">
-    <img src="https://img.shields.io/badge/LeetCode-760%2B_Problems_1805-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-760%2B_Problems_2038-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
-- 🧑‍💻 **Codeforces Expert** (Max Rating: 1756)  
-- 📊 **760+ LeetCode Problems Solved** | Max Contest Rating: **1805**  
+- 🧑‍💻 **Codeforces Expert** (Max Rating: **1723**)  
+- 📊 **LeetCode Knight** (Max Contest Rating: **1805**) | **860+ LeetCode Problems Solved** 
 - 📘 **138+ Problems Solved** on CSES Problem Set  
 - 🏆 Active participant in coding contests (Codeforces | LeetCode | HackerRank)  
 ---
