@@ -16,16 +16,16 @@
 ## 🏆 Competitive Programming & Problem Solving
 <p align="center">
   <a href="https://codeforces.com/profile/algoslayer">
-    <img src="https://img.shields.io/badge/Codeforces-Expert_1729-1F8ACB?style=for-the-badge&logo=codeforces" />
+    <img src="https://img.shields.io/badge/Codeforces-Expert_1850-1F8ACB?style=for-the-badge&logo=codeforces" />
   </a>
   <a href="https://leetcode.com/u/shivansh_coding">
     <img src="https://img.shields.io/badge/LeetCode-Knight_2038-FFA116?style=for-the-badge&logo=leetcode" />
   </a>
 </p>
 
-- 🧑‍💻 **Codeforces Expert** (Max Rating: **1723**)  
-- 📊 **LeetCode Knight** (Max Contest Rating: **2038**) | **860+ LeetCode Problems Solved** 
-- 📘 **138+ Problems Solved** on CSES Problem Set  
+- 🧑‍💻 **Codeforces Expert** (Max Rating: **1850**)  
+- 📊 **LeetCode Knight** (Max Contest Rating: **2038**) | **870+ LeetCode Problems Solved** 
+- 📘 **144 Problems Solved** on CSES Problem Set  
 - 🏆 Active participant in coding contests (Codeforces | LeetCode | HackerRank)  
 ---
 
