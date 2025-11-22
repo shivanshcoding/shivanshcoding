@@ -1,32 +1,65 @@
 name: 🐍 Generate Contribution Snake
 
+# run on schedule and by manual trigger
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *"   # every 12 hours (adjust if you want)
   workflow_dispatch:
+
+permissions:
+  contents: write   # allow commits/pushes back to the repo
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
-
-      - name: Generate snake SVG
-        uses: Platane/snk/svg@v3
         with:
+          fetch-depth: 0
+
+      - name: Generate snake SVG (Platane/snk)
+        # Use the official action (do NOT put extra path after @v3)
+        uses: Platane/snk@v3
+        with:
+          # this will default to the repo owner if you prefer: ${{ github.repository_owner }}
           github_user_name: shivanshcoding
+          # ask snk to produce an SVG file (you can add more outputs or options)
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Push snake file to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
+      - name: Show generated files (debug)
+        run: |
+          echo "Listing dist folder"
+          ls -la dist || true
+
+      - name: Commit and push to output branch
+        run: |
+          # configure git
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # create (or update) the 'output' branch with the dist content
+          # if branch exists, check it out; otherwise create orphan branch
+          if git show-ref --verify --quiet refs/heads/output; then
+            git checkout output
+          else
+            git checkout --orphan output
+            git rm -rf .
+          fi
+
+          # copy generated files into repo root (or keep in output/)
+          mkdir -p output
+          cp -r dist/* output/ || true
+
+          # add and commit changes
+          git add output || true
+          git commit -m "chore: update contribution snake" || echo "no changes to commit"
+
+          # push branch
+          git push origin HEAD:output --force
+
         env:
+          # default GITHUB_TOKEN is available automatically
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-          message: "chore: update contribution snake"
-          add: "output"
