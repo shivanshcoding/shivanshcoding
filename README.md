@@ -111,6 +111,42 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- Main stats row (two cards) -->
+<table align="center" cellpadding="12">
+  <tr>
+    <td align="center">
+      <!-- Stats Card -->
+      <img src="https://github-readme-stats.vercel.app/api?username=shivanshcoding&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="border-radius:12px; box-shadow: 0 6px 18px rgba(2,6,23,0.25); max-width:420px;">
+      <p><sub style="opacity:0.8">Overview • Commits • PRs • Stars</sub></p>
+    </td>
+    <td align="center">
+      <!-- Streak + Trophies Card -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanshcoding&theme=radical&hide_border=true" alt="GitHub Streak" style="border-radius:12px; box-shadow: 0 6px 18px rgba(2,6,23,0.25); max-width:420px;">
+      <p><sub style="opacity:0.8">Streaks • Achievements • Recognition</sub></p>
+    </td>
+  </tr>
+</table>
+
+<!-- Languages + Activity Graph -->
+<p align="center" style="margin-top:14px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshcoding&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" style="border-radius:12px; box-shadow: 0 6px 18px rgba(2,6,23,0.12); max-width:200px">
+  &nbsp;&nbsp;
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivanshcoding&theme=github&area=true&hide_border=true" alt="Activity Graph" style="border-radius:12px; box-shadow: 0 6px 18px rgba(2,6,23,0.12); max-width:220px;">
+</p>
+
+<p style="margin-top:12px;">
+  <img src="https://github.com/shivanshcoding/shivanshcoding/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" style="width:80%; max-width:1000px; border-radius:12px; box-shadow: 0 8px 24px rgba(2,6,23,0.18);">
+  
+</p>
+</div>
+
+
+---
+
 ## 🎤 Major Achievements  (Beyond Tech)
  
 - 🌟 **Top 12 – The Voice of India Kids**  
