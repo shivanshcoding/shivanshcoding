@@ -118,14 +118,24 @@
 <!-- Main stats row (two cards) -->
 <table align="center" cellpadding="12">
   <tr>
+    <!-- Stats Card -->
     <td align="center">
-      <!-- Stats Card -->
-      <img src="https://github-readme-stats.vercel.app/api?username=shivanshcoding&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="border-radius:12px; box-shadow: 0 6px 18px rgba(2,6,23,0.25); max-width:420px;">
+      <img
+        src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=shivanshcoding&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+        alt="GitHub Stats"
+        style="border-radius:12px; box-shadow: 0 6px 18px rgba(2, 6, 23, 0.25); max-width:420px;"
+      >
       <p><sub style="opacity:0.8">Overview • Commits • PRs • Stars</sub></p>
     </td>
+    <!-- Streak Card -->
     <td align="center">
-      <!-- Streak + Trophies Card -->
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanshcoding&theme=radical&hide_border=true" alt="GitHub Streak" style="border-radius:12px; box-shadow: 0 6px 18px rgba(2,6,23,0.25); max-width:420px;">
+      <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
+        <img
+          src="https://git-hub-streak-stats.vercel.app/?user=shivanshcoding&theme=radical&hide_border=true"
+          alt="GitHub Streak"
+          style="border-radius:12px; box-shadow: 0 6px 18px rgba(2, 6, 23, 0.25); max-width:420px;"
+        >
+      </a>
       <p><sub style="opacity:0.8">Streaks • Achievements • Recognition</sub></p>
     </td>
   </tr>
