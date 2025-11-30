@@ -145,14 +145,14 @@
 <!-- Second stats row (two cards) -->
 <table align="center" cellpadding="12">
   <tr>
-    <td align="center">
-      <!-- Bigger Top Languages Card -->
+    <!-- <td align="center">
+      <!-- Bigger Top Languages Card
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshcoding&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"
+        src="https://github-readme-stats-git-master-advnce.vercel.app/api/top-langs/?username=shivanshcoding&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&cache_seconds=7200"
         alt="Top Languages"
         style="border-radius:12px; box-shadow: 0 6px 18px rgba(2,6,23,0.25); width:520px; max-width:420px;">
       <p><sub style="opacity:0.8">Languages • Tech Stack Distribution</sub></p>
-    </td>
+    </td> -->
     <td align="center">
       <!-- Activity Graph Card -->
       <img 
