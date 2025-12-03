@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=1C8EF7&center=true&vCenter=true&random=false&width=1200&lines=Hey%2C+I'm+Shivansh+Rana+👋;Codeforces+Expert(1850)+%7C+LeetCode+Knight(2038);WebDeveloper+%7C+AI/ML+%7C+Web3/BlockChain+%7C+DevOps;Blending+Creativity+%26+Technology+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=1C8EF7&center=true&vCenter=true&random=false&width=1200&lines=Hey%2C+I'm+Shivansh+Rana+👋;Codeforces+Expert(1850)+%7C+LeetCode+Gaurdian(2199);WebDeveloper+%7C+AI/ML+%7C+Web3/BlockChain+%7C+DevOps;Blending+Creativity+%26+Technology+🚀" alt="Typing Animation" />
 </p>
 
 
