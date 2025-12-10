@@ -86,7 +86,7 @@
 ---
 ## 🚀 Featured Projects  
 
-### 🧩 Rubik’s Cube Solver Platform  
+### 🧩 Rubik’s Cube Solver Web Platform  
 > *AI-powered cube-solving & learning platform with CV + 3D visualization.*  
 
 - 🌀 Solves any cube in **<50 moves** within ~2.5 sec.  
