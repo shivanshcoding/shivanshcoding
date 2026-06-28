@@ -4,12 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&pause=1200&color=1C8EF7&center=true&vCenter=true&width=1200&lines=Hey%2C+I'm+Shivansh+Rana+👋;Software+Engineer+@+Uber;AI+Engineering+%7C+Backend+%7C+Distributed+Systems;Codeforces+Expert+(1850)+%7C+LeetCode+Guardian(2199);WebDeveloper+%7C+AI/ML+%7C+Web3/BlockChain+%7C+DevOps;Building+Intelligent+Products;Always+Learning.+Always+Building.;Blending+Creativity+%26+Technology+🚀;Always+Exploring+What's+Next" />
 </p>
 
-<h1>
-Shivansh Rana
-</h1>
-
 <h3 align="center">
-💻 Software Engineer • 🤖 AI Systems Engineering • ⚡ Full Stack Engineering • 🚀 Problem Solver
+💻 Software Engineer | 🤖 AI Systems Engineering | ⚡ Full Stack Engineering | 🚀 Problem Solver
 </h3>
 
 ---
