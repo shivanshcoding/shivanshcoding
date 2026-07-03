@@ -33,7 +33,7 @@ Beyond engineering, competitive programming has strengthened my problem-solving 
 <img src="https://img.shields.io/badge/Codeforces-Expert_1850-1F8ACB?style=for-the-badge&logo=codeforces"/>
 </a></td>
 <td><a href="https://leetcode.com/u/shivansh_coding">
-<img src="https://img.shields.io/badge/LeetCode-Guardian_2229-FFA116?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-Guardian_2229-FFA116?style=for-the-badge&logo=leehttps://github.com/shivanshcoding/shivanshcoding/blob/main/README.mdtcode"/>
 </a></td>
 </tr>
 
@@ -44,13 +44,14 @@ Beyond engineering, competitive programming has strengthened my problem-solving 
 </tr>
 
 <tr>
-<td>🌍 <b>Meta Hacker Cup Round 2 268 Rank</b></td>
+<td>🥈 <b>Meta Hacker Cup Round 2 268 Rank</b></td>
 <td>🌍 <b> 150+ CSES Problem Solved</b></td>
-<td>🎙️ <b>Top 100 – Indian Idol</b></td>
+<td>🏆 <b>Amazon ML Summer School 2026 Selected</b></td>
 </tr>
 
 <tr>
 <td>🎤 <b>Top 12 – The Voice Kids</b></td>
+<td>🎙️ <b>Top 100 – Indian Idol</b></td>
 </tr>
 
 
