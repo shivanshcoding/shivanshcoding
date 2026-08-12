@@ -16,7 +16,7 @@ Hi, I'm **Shivansh Rana**, a Software Engineer passionate about building intelli
 
 💼 **Software Development Intern** @ Hero MotoCorp *(Jun – Jul 2026)*
 
-🚀 **Incoming Software Development Intern** @ Uber *(Aug – Dec 2026)*
+🚀 **Software Development Intern** @ Uber *(Aug 2026 – Present)*
 
 I enjoy building products at the intersection of **LLMs, Agentic AI, Retrieval Systems, Distributed Systems, Backend Engineering, System Design, and Full-Stack Development**. Whether it's designing scalable architectures, developing AI-powered applications, or exploring emerging technologies, I'm always looking for problems that challenge me to learn something new.
 
